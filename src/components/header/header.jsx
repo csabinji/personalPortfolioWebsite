@@ -1,5 +1,11 @@
+import Hero from "./hero/hero";
 import Navigation from "./navigation/navigation";
 
-module.exports = {
-    Navigation();
+export default function Headder() {
+    return (
+        <div className="App">
+            <Navigation/>
+            <Hero/>
+        </div>
+    )
 }

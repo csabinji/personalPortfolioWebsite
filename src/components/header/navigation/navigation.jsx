@@ -10,7 +10,7 @@ export default function Navigation() {
                     <li><a class="nav-link scrollto" href="#about">About</a></li>
                     <li><a class="nav-link scrollto " href="#portfolio">Projects</a></li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                    <li><a class="nav-link scrollto" href="http://csabin.com.np/" target="_blank">Blog</a></li>
+                    <li><a class="nav-link scrollto" href="http://csabin.com.np/" rel="noreferrer" target="_blank">Blog</a></li>
                     <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
