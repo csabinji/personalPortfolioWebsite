@@ -166,7 +166,7 @@ export default function Projects() {
 
                     <div class="col-lg-4 col-md-6 portfolio-item filter-mv">
                         <div class="portfolio-img">
-                            <a href="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsabin.dai.564%2Fvideos%2F350603176490282%2F&show_text=false&width=560&t=0" width="560" height="314" style={{border:'none',overflow:'hidden'}} scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" data-gallery="portfolioGallery"
+                            <a href="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsabin.dai.564%2Fvideos%2F350603176490282%2F&show_text=false&width=560&t=0" width="560" height="314" style={{ border: 'none', overflow: 'hidden' }} scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" data-gallery="portfolioGallery"
                                 class="portfolio-lightbox preview-link">
                                 <img src="https://1.bp.blogspot.com/-XEccdplhEf0/YNmWF5myahI/AAAAAAAAHok/FG2L02MNEw49dixbtLy6eML4KBkkaigvQCLcBGAsYHQ/s720/break.png" class="img-fluid" alt="" />
                             </a>
